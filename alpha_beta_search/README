@@ -1,0 +1,4 @@
+This is my alpha beta search project. Alpha beta search is an adversarial search  algorithm that decreases the number of nodes needed to be evaluated over a minimax algorithm.
+
+To play against my a.i. open kiosk.jar, and run /src/Main.java. From here you can change the board size you want to play on, and the playclock, or amount of time my A.I. will have to process it's move.
+The goal of the game is to get one of your pawns on the other side of the board, before your opponent can. You can also take pawns diagonally just like chess.
